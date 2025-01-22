@@ -47,7 +47,7 @@
 
     width: 200px;
 
-    transform: translate(-50%, -16px);
+    transform: translate(-50%, -42px);
 
     background: #fff;
     border: 1px solid #ddd;
@@ -133,10 +133,11 @@
 
         width: 200px;
 
-        transform: translate(-50%, -16px);
+        transform: translate(-50%, -42px);
 
         background: #fff;
         border: 1px solid #ddd;
+
     }
 
     .header .gnb>ul>li:hover ul {
@@ -161,7 +162,7 @@
         border-top: 1px solid #ddd;
     }
 
-    .header .mbtn {
+    .header . {
         display: none;
     }
 }
